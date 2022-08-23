@@ -1,4 +1,4 @@
 # hello_hs
 Hello Haskell
 
-Simple hello world in 0haskell with stack setups.
+Simple hello world in haskell with stack setups.
